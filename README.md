@@ -43,7 +43,7 @@ int main(void)
 }
 ```
 
-Compile and run
+Compile and run:
 
 ```
 cc main.c -L. -lftprintf -o myTest
